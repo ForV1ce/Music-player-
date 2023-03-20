@@ -264,7 +264,7 @@ input[type="submit"]
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    background-image: url("/src/img/Playerbackground.png"); 
+    background-image: url("/src/img/playerbackground.png"); 
     animation: backgroundimg 1s ease-in forwards;
     color: #ffc107;
     background-size: cover;
